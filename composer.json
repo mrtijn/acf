@@ -1,7 +1,7 @@
 {
-  "name": "corcel/acf",
+  "name": "mrtijn/corcel-acf",
   "description": "Advanced Custom Field (ACF) plugin for Corcel",
-  "homepage": "http://github.com/corcel/acf",
+  "homepage": "http://github.com/mrtijn/corcel-acf",
   "license": "MIT",
   "authors": [
     {
